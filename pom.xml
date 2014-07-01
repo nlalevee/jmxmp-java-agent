@@ -61,9 +61,9 @@
             <scope>test</scope>
         </dependency>
         <dependency>
-            <groupId>javax.management</groupId>
-            <artifactId>jmxremote_optional</artifactId>
-            <version>1.0.1_04</version>
+            <groupId>org.glassfish.external</groupId>
+            <artifactId>jmxremote_optional-repackaged</artifactId>
+            <version>3.1.1</version>
         </dependency>
     </dependencies>
 </project>
